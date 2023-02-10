@@ -18,3 +18,4 @@ print(sqrt2)
 print('*************")
       
 print('Stash 2")
+print('Stash 1")
