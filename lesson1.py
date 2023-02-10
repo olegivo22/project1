@@ -9,5 +9,7 @@ print('*******************')
 
 print(num1, num2)
 
-sqrt = math.sqrt(num1)
-print(sqrt)
+sqrt1 = math.sqrt(num1)
+sqrt2 = math.sqrt(num2)
+print(sqrt1)
+print(sqrt2)
