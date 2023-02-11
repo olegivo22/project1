@@ -16,4 +16,4 @@ print(sqrt2)
 print('==============")
       
 fact = math.factorial(num2)
-print(fact)
+print('factorial =', fact)
