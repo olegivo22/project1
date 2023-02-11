@@ -13,7 +13,7 @@ print(sqrt1)
 print(sqrt2)
 
 
-print('*************")
+print('==============")
       
 fact = math.factorial(num1)
 print(fact)
