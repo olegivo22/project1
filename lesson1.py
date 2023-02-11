@@ -1,4 +1,5 @@
 # Test2
+import math
 
 num1 = input('Введите первое число:') #Test comment
 num2 = input('Введите второе число:')
@@ -14,4 +15,4 @@ print(sqrt2)
 
 print('*************")
       
-
+fact = math.factorial(num1)
