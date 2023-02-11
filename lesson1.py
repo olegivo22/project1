@@ -16,3 +16,4 @@ print(sqrt2)
 print('*************")
       
 fact = math.factorial(num1)
+print(fact)
